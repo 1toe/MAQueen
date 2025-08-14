@@ -1,4 +1,4 @@
-# Taller Makween
+# Taller MAQueen
 
 Proyecto semestral para la asignatura PGY3121
 
@@ -99,3 +99,4 @@ python manage.py runserver
 - [Vista vehiculos_del](http://127.0.0.1:8000/vehiculos_del/<placa>)
 - [Vista vehiculos_findEdit](http://127.0.0.1:8000/vehiculos_findEdit/<placa>)
 - [Vista vehiculosUpdate](http://127.0.0.1:8000/vehiculosUpdate)
+
